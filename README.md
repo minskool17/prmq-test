@@ -1,4 +1,4 @@
-[prmq3.html](https://github.com/user-attachments/files/23598603/prmq3.html)
+
 <!DOCTYPE html>
 <html lang="ko">
 <head>
